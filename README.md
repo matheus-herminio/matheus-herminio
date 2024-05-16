@@ -3,6 +3,7 @@ Olá! Bem vindo ao meu perfil
 <p> <strong>Este perfil é novo</strong>, estou trabalhando para deixá-lo cada vez melhor :D </p>
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-herminio&show_icons=true&theme=dark"> 
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-herminio&langs_count=8&theme=dark">  
 </div>
 <div style="display: inline-block"><br>
 <img align="center" alt="MH-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
